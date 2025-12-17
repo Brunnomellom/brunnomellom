@@ -10,6 +10,17 @@
          <li><tr>🌱 Right now I'm learning Phyton, HTML, CSS, JavaScript, React, TypeScrypt and React.</tr></li>
          <li><tr>👯 I'm looking to join a company or Startup! 👍</tr></li>
          <li><tr>💬 Ask me about My Life...</tr></li>
+
+           ### Main skills:
+![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)  
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=Python&logoColor=white)  
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
       </ul>
   </div>
 </section>
