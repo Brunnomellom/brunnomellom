@@ -5,7 +5,7 @@
   </div>
   <div align="center">
     <ul align="left" list-style="none">
-         <li><tr>🖥️ Bachelor's degree in software engineering 👨🏻‍🎓.
+         <li><tr>🖥️ Bachelor's degree in software engineering, currently in the 5th semester. 👨🏻‍🎓.
          <li><tr>🔭 I offer Graphic Designer and web development services as a Freelancer.</tr></li>
          <li><tr>🌱 Right now I'm learning Phyton, HTML, CSS, JavaScript, React, TypeScrypt and React.</tr></li>
          <li><tr>👯 I'm looking to join a company or Startup! 👍</tr></li>
