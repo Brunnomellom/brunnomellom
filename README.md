@@ -17,7 +17,7 @@
 - 💼 Freelancer (Web Development + Graphic Design)  
 - 🔎 Focused on building **real-world projects**  
 - 📊 Interested in **data visualization & dashboards**  
-- 🚀 Looking for opportunities in companies or startups  
+- 🚀 Open to opportunities in frontend development and tech-driven environments  
 
 ---
 
