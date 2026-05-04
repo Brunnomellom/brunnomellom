@@ -43,14 +43,14 @@
 ## 🚀 Featured Project
 
 ### 💰 Crypto Wallet Dashboard
-> Dashboard para visualização de carteira de criptomoedas
+> A dashboard for cryptocurrency portfolio tracking and visualization
 
-🔹 Integração com APIs  
-🔹 Visualização de dados em tempo real  
-🔹 Interface moderna e responsiva  
-🔹 Foco em experiência do usuário  
+🔹 API integration for real-time data  
+🔹 Financial data visualization  
+🔹 Modern and responsive UI  
+🔹 Focus on user experience  
 
-👉 [(coloque aqui o link do repositório depois)](https://github.com/Brunnomellom/Wallet-Cripto)
+👉 ([Link Repositories](https://github.com/Brunnomellom/Wallet-Cripto))
 
 ---
 
