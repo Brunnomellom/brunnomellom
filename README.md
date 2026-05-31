@@ -80,6 +80,27 @@ Currently developing projects involving:
 
 ---
 
+## 🗄️ Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres" />
+
+</p>
+
+### Experience With
+
+- PostgreSQL
+- Database Modeling
+- SQL Queries
+- Relational Databases
+- CRUD Operations
+- Data Integration
+
+</p>
+
+---
+
 ## ⚙️ Tools & Technologies
 
 <p align="center">
