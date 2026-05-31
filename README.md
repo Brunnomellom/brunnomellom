@@ -1,86 +1,194 @@
-<!-- BANNER / APRESENTAÇÃO -->
-<h1 align="center">👋 Bruno Melo</h1>
+<!-- PROFILE README - BRUNO MELO -->
+
+<!-- ========================================= -->
+
+<h1 align="center">
+  🚀 Bruno Melo
+</h1>
 
 <p align="center">
-  💻 Frontend Developer | 🚀 Building real projects | 📊 Focused on UX & Data Visualization
+  Software Engineering Student • Frontend Developer • Future Full Stack Developer
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Building+Real+Projects;Always+Learning+New+Technologies" />
-</p>
-
----
-
-## 🧠 About Me
-
-- 🎓 Software Engineering Student (5th semester)  
-- 💼 Freelancer (Web Development + Graphic Design)  
-- 🔎 Focused on building **real-world projects**  
-- 📊 Interested in **data visualization & dashboards**  
-- 🚀 Open to opportunities in frontend development and tech-driven environments  
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🚀 Featured Project
-
-### 💰 Crypto Wallet Dashboard
-> A dashboard for cryptocurrency portfolio tracking and visualization
-
-🔹 API integration for real-time data  
-🔹 Financial data visualization  
-🔹 Modern and responsive UI  
-🔹 Focus on user experience  
-
-👉 ([Link Repositories](https://github.com/Brunnomellom/Wallet-Cripto))
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00C7FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Frontend+Developer;Building+Real+World+Projects;Transport+Systems+Developer;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 📫 Contact
+## 👨‍💻 About Me
+
+```yaml
+Name: Bruno Melo
+Location: Brazil 🇧🇷
+Education: Software Engineering
+Current Focus:
+  - Transportation Systems
+  - Frontend Development
+  - Dashboard Development
+  - User Experience
+  - Data Visualization
+
+Goal:
+  Become a Full Stack Software Engineer
+```
+
+I'm passionate about creating systems that solve real business problems.
+
+Currently developing projects involving:
+
+* 🚚 Cargo Transportation Management Systems
+* 🎟️ Bus Ticket Sales Platforms
+* 💰 Cryptocurrency Dashboards
+* 📊 Business Intelligence Dashboards
+* 🌐 Modern Web Applications
+
+---
+
+# ⚡ Tech Stack
+
+## 💻 Programming Languages
 
 <p align="center">
-  <a href="https://linkedin.com/in/bruno-melo-626a402b4">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 
-  <a href="mailto:melo.bruno.m2@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=python" />
 
-  <a href="https://instagram.com/melo.2.z">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+</p>
+
+### Currently Studying
+
+* Assembly
+* Data Structures
+* Software Architecture
+* APIs & Integrations
+
+---
+
+## 🌐 Frontend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=react" />
+
 </p>
 
 ---
 
-## ⚡ Fun Fact
+## ⚙️ Tools & Technologies
 
-> I like turning complex data into simple and beautiful interfaces.
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🚚 Freight Transportation System
+
+Management platform for freight transportation companies.
+
+### Features
+
+✔ Driver Management
+
+✔ Freight Tracking
+
+✔ Route Control
+
+✔ Cargo Management
+
+✔ Operational Dashboard
+
+---
+
+## 🎟️ Bus Ticket Platform
+
+Web platform for bus companies.
+
+### Features
+
+✔ Online Ticket Purchase
+
+✔ Seat Selection
+
+✔ Travel Management
+
+✔ Passenger Registration
+
+✔ Payment Integration
+
+---
+
+## 💰 Crypto Wallet Dashboard
+
+Cryptocurrency portfolio management dashboard.
+
+### Features
+
+✔ API Integration
+
+✔ Real-Time Data
+
+✔ Asset Monitoring
+
+✔ Interactive Charts
+
+✔ Modern UI
+
+🔗 Repository:
+https://github.com/Brunnomellom/Wallet-Cripto
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunnomellom&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunnomellom&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+* 🚀 Build and launch SaaS products
+* 📚 Improve Software Architecture skills
+* 💻 Become a Full Stack Developer
+* 🌐 Expand Open Source contributions
+* 📊 Develop complete transportation platforms
+
+---
+
+# 📫 Contact Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/bruno-melo-626a402b4">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:melo.bruno.m2@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>"Turning ideas into software solutions."</i>
+</p>
